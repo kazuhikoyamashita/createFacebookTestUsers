@@ -11,7 +11,7 @@ Facebookのテストユーザを作成します。
  
 ライセンス
 ------------
-Copyright &copy; 2013 Kazuhiko Yamashita
+Copyright &copy; 2013 Kazuhiko Yamashita  
 Distributed under the [MIT License][mit].
 
 [MIT]: http://www.opensource.org/licenses/mit-license.php
